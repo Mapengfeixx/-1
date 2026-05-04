@@ -1,6 +1,6 @@
 {
-  "name": "发安家 (FaAnJia) - Smart Scalp Care",
-  "description": "An AI-powered smart scalp health management application featuring real-time detection, AI analysis, and remote consultation.",
+  "name": "发安家 (FaAnJia)",
+  "description": "专业的AI头皮健康管理专家，提供实时检测、AI分析及远程咨询服务。",
   "requestFramePermissions": [
     "camera"
   ],

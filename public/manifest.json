@@ -1,0 +1,23 @@
+{
+  "name": "发安家 - AI头皮健康",
+  "short_name": "发安家",
+  "description": "专业的AI头皮健康管理专家",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0040E0",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuALmKVBocUQwaF4PlH7rziOlpCXUuroF0Ee4_yBnom4aBIqUaxH2BK2j7DfSVNj8UDYd9WBDaXB7T1RcyucMuhw7Ej7J0jiAq-f3U12FICtM_Zg6SRbf6ayhM6FptatBfyiXmgW1qpGFGePezwFRTKxHD6CIKSHKeB_4no_uQSt0HXaE2oQojDUtTHKUMYHhInZFwaA_e1NRCyDfbNvcyyeqlgaebwNZmpTZNhndYcguqTiEI2PtXzL1rOEVmGc3xYwCBq2T2CIWY-j",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/aida-public/AB6AXuALmKVBocUQwaF4PlH7rziOlpCXUuroF0Ee4_yBnom4aBIqUaxH2BK2j7DfSVNj8UDYd9WBDaXB7T1RcyucMuhw7Ej7J0jiAq-f3U12FICtM_Zg6SRbf6ayhM6FptatBfyiXmgW1qpGFGePezwFRTKxHD6CIKSHKeB_4no_uQSt0HXaE2oQojDUtTHKUMYHhInZFwaA_e1NRCyDfbNvcyyeqlgaebwNZmpTZNhndYcguqTiEI2PtXzL1rOEVmGc3xYwCBq2T2CIWY-j",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
